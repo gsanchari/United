@@ -64,12 +64,9 @@ h1{
     }
 }
 
-pre{
-    color: brown;
-    font-size: 1.3rem;
-}
+
 #rem{
-    padding-left: 8rem;
+    padding-left: 2rem;
     font-size: 2rem;
     font-weight: bold;
     color: rgb(171, 48, 48);
